@@ -1,1 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Walter+Turncoat&display=swap');
 
+body {
+  font-family: 'Walter Turncoat', cursive;
+}
+
+h1 {
+  font-style: italic;
+  font-size: 40px;
+}
+
+ul {
+   font-style: italic;
+   font-size: 15px;
+}
