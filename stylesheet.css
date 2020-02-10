@@ -2,14 +2,22 @@
 
 body {
   font-family: 'Walter Turncoat', cursive;
+  background-image: url("https://github.com/pupdog999/portfolio2/blob/master/v384-ning-07b-gradientbg_2.jpg?raw=true");
 }
 
 h1 {
   font-style: italic;
   font-size: 40px;
+  color: #091F6E;
+  border: 5px dotted black;
+  float: center;
 }
 
 ul {
    font-style: italic;
    font-size: 15px;
+}
+
+p {
+  color: #6C07F5;
 }
