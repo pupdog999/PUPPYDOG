@@ -17,6 +17,10 @@ h1 {
   float: center;
 }
 
+h2 {
+  color: #5F26DA;
+}
+
 ul {
    font-style: italic;
    font-size: 15px;
