@@ -38,7 +38,7 @@ p {
 
 .navbar {
   overflow: hidden;
-  background-color: = #BB21FF;
+  background-color: = #FFFFFF;
 }
 
 .navbar a {
@@ -58,7 +58,7 @@ p {
 
 
 .navbar a.active {
-  background-color: #BB21FF; 
+  background-color: #FFFFFF; 
   color: purple;
 }
 
