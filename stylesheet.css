@@ -15,7 +15,7 @@ h1 {
   float: center;
   color: #0CA0FA;
   animation-name: h1anim;
-  animation-duration: 6s;
+  animation-duration: 4s;
   animation-iteration-count: infinite;
 }
 
