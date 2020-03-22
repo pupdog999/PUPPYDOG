@@ -32,8 +32,7 @@ h2 {
 h3 {
   color: #0C2EC3;
 }
-ul {
-   font-style: italic; 
+ul { 
    font-size: 25px;
    color: #9C080F;
    border: 2px dotted blue;
